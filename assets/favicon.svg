@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .p{fill:#edf1f1}.i{stroke:#0f2747}.l{stroke:#17784f}
+    @media (prefers-color-scheme: dark){.p{fill:#0b2342}.i{stroke:#e8f0f3}.l{stroke:#63d39e}}
+  </style>
+  <circle class="p" cx="32" cy="32" r="31"/>
+  <circle class="i" cx="32" cy="32" r="28" fill="none" stroke-width="3"/>
+  <path class="i" d="M19 19 L45 45" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path class="l" d="M45 19 L19 45" stroke-width="6" stroke-linecap="round" fill="none"/>
+</svg>
