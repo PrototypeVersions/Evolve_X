@@ -276,6 +276,7 @@ sup a { text-decoration: none; font-family: var(--display); font-size: .7em; fon
 }
 .sec.first, .sec:first-child { border-top: 0; }
 .sec > .sec-head h2 { position: sticky; top: calc(var(--head-h) + 1.5rem); }
+.sec-head h2 { font-size: clamp(1.7rem, 2.7vw, 2.5rem); font-variation-settings: "wdth" 106; overflow-wrap: break-word; hyphens: manual; }
 .sec-head .note { margin-top: 1rem; color: var(--fg-soft); font-size: 1.02rem; line-height: 1.5; position: sticky; top: calc(var(--head-h) + 1.5rem + 3.4em); }
 .sec-body > * + * { margin-top: 1.4rem; }
 .sec-body > p + p { margin-top: 0; }
