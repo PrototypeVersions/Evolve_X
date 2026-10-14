@@ -439,7 +439,7 @@ table.wide { min-width: 720px; }
 .foundations h3 { margin-bottom: .7rem; }
 .foundations p { font-size: 1.02rem; line-height: 1.55; }
 .foundations .origin { color: var(--on-night-soft); font-size: .95rem; margin-top: .9rem; }
-@media (max-width: 900px) { .foundations { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 1040px) { .foundations { grid-template-columns: minmax(0, 1fr); } }
 
 /* ---------- Federation figure ---------- */
 
